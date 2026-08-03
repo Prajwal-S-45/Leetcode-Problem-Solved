@@ -19,8 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0014-longest-common-prefix) |
+| [0283-move-zeroes](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
