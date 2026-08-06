@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
