@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0177-nth-highest-salary) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
