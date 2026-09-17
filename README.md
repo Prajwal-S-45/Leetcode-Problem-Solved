@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
