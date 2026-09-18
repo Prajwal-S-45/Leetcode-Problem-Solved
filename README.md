@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
 ## Trie
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
