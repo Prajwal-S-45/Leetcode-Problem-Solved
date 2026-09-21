@@ -16,6 +16,7 @@
 
 class Solution {
     public void moveZeroes(int[] nums) {
+        // Using Two Pointers Approach
         int writeIndex = 0;
         int readIndex = 0;
 
