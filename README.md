@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
