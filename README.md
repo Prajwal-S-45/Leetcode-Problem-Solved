@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0643-maximum-average-subarray-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
 | ------- |
