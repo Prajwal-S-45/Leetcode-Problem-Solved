@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
