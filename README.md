@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0177-nth-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sorting
 |  |
