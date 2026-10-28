@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0922-sort-array-by-parity-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/2460-apply-operations-to-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0342-power-of-four) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Prajwal-S-45/Leetcode-Problem-Solved/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
